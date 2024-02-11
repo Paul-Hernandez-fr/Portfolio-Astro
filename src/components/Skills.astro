@@ -1,0 +1,68 @@
+---
+import Icon from './Icon.astro';
+---
+
+<section class="box skills">
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="terminal-window" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Full Stack</h2>
+		<p>Sortant de la Wild Code School, ma maîtrise des technologies front et back-end me confère une polyvalence précieuse.
+			Familiarisé avec PHP et JavaScript, je crée des applications web performantes, en veillant à l'expérience utilisateur.
+			Ma curiosité technique me pousse à explorer constamment de nouvelles solutions pour répondre aux défis de demain.</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="trophy" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Esprit d'équipe Agile</h2>
+		<p>Collaborer efficacement en équipe est au cœur de ma démarche professionnelle.
+			Que ce soit en pair programming ou lors de sprints agiles, je valorise le partage de connaissances et l'effort collectif pour mener à bien des projets innovants.
+			Mon expérience témoigne de ma capacité à co-créer dans des délais serrés et avec créativité.</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="strategy" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Perspective Innovante</h2>
+		<p>Avec un parcours riche et diversifié, j'apporte une perspective unique au monde du développement web.
+			Ma capacité à m'adapter et à innover se reflète dans chaque projet, prouvant que les compétences techniques se bonifient avec des expériences variées.
+			Prêt à relever les défis de l'IT avec passion et une vision novatrice.</p>
+	</div>
+</section>
+
+<style>
+	.box {
+		border: 1px solid var(--gray-800);
+		border-radius: 0.75rem;
+		padding: 1.5rem;
+		background-color: var(--gray-999_40);
+		box-shadow: var(--shadow-sm);
+	}
+
+	.skills {
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+	}
+
+	.skills h2 {
+		font-size: var(--text-lg);
+	}
+
+	.skills p {
+		color: var(--gray-400);
+	}
+
+	@media (min-width: 50em) {
+		.box {
+			border-radius: 1.5rem;
+			padding: 2.5rem;
+		}
+
+		.skills {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			gap: 5rem;
+		}
+
+		.skills h2 {
+			font-size: var(--text-2xl);
+		}
+	}
+</style>

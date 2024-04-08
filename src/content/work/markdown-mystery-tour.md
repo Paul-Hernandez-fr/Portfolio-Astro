@@ -1,35 +1,43 @@
 ---
-title: Markdown Mystery Tour
+title: Éclat d'Art
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/Macbook.png
+img_alt: Fantasy-themed image featuring a pale female character with striking blue eyes and silver hair, adorned with subtle facial markings.
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Un voyage numérique au cœur de la création artistique.
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - Innovation Artistique
+  - Technologie Créative
+  - Agile
 ---
 
-## Level-two heading
+## Introduction
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> Une innovation où la créativité des artistes s'illumine à travers le prisme du numérique.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+ Inspiré par la difficulté pour les artistes d'exposer leurs œuvres dans des galeries traditionnelles, Éclat d'Art est né de l'ambition de fournir une plateforme en ligne permettant une visibilité étendue aux artistes de tous horizons. Ce projet de fin de formation à la Wild Code School symbolise la synthèse de mes compétences en développement web, alliant passion pour l'art et technologie.
+ https://eclat-d-art.lyon-1.wilders.dev/
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+### Intégration Technique
 
-### Level-three heading
+> L'art de coder : une synergie entre technologie moderne et expressions artistiques.
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+Développé avec PHP 8.2 et le framework Symfony 6.4, le site offre une expérience utilisateur fluide grâce à une interface réactive conçue via Bootstrap 5.3. L'utilisation de MySQL et de l'ORM Doctrine facilite la gestion de données complexes, tandis que LiipImagine optimisent l'affichage des œuvres en essayant d'avoir une impacte écologique.
 
-### Level-three heading
+### Design et Interaction
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+> Esthétique et accessibilité : quand chaque pixel raconte une histoire.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+ Le design, responsive, garantit une expérience utilisateur optimale sur tous les appareils. La charte graphique, adaptée aux personnes atteintes de daltonisme, souligne notre engagement envers l'accessibilité. Le site se distingue par sa facilité d'utilisation, permettant aux artistes de publier, gérer et partager leurs œuvres avec une simplicité déconcertante.
 
-#### Level-four heading
+### Travail d'Équipe et Méthodologie
 
-- We noted this
-- And also this other point
+> Une symphonie d'esprit d'équipe, orchestrée avec agilité et précision.
+
+Le projet a été mené selon la méthodologie Agile-Scrum, favorisant une collaboration efficace au sein de l'équipe et une adaptation rapide aux besoins du projet. Cette approche a permis d'intégrer des feedbacks réguliers et d'ajuster le développement en conséquence, assurant un produit final répondant aux attentes des utilisateurs.
+
+### Conclusions et Acquis
+
+>Au carrefour de l'art et de la technologie, un voyage formatif s'achève, ouvrant les portes de l'avenir.
+
+ Éclat d'Art reflète l'essence de ma formation à la Wild Code School, marquant le début de mon parcours professionnel dans le développement web. Ce projet n'est pas seulement le fruit de mon travail; il symbolise également une collaboration enrichissante avec mes pairs, renforçant mon désir d'évoluer dans ce domaine dynamique et innovant.

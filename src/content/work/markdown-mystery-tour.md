@@ -41,3 +41,22 @@ Le projet a été mené selon la méthodologie Agile-Scrum, favorisant une colla
 >Au carrefour de l'art et de la technologie, un voyage formatif s'achève, ouvrant les portes de l'avenir.
 
  Éclat d'Art reflète l'essence de ma formation à la Wild Code School, marquant le début de mon parcours professionnel dans le développement web. Ce projet n'est pas seulement le fruit de mon travail; il symbolise également une collaboration enrichissante avec mes pairs, renforçant mon désir d'évoluer dans ce domaine dynamique et innovant.
+
+ <div class="flex-container">
+  <video controls width="250" controlslist="nodownload">
+    <source src="/assets/videos/demo.mp4" type="video/webm"/>
+  </video>
+</div>
+
+<style>
+  .flex-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  video{
+    border-radius: 8px;
+    height: 20em;
+    width: 20em;
+  }
+</style>

@@ -1,6 +1,6 @@
 ---
 title: Éclat d'Art
-publishDate: 2020-03-02 00:00:00
+publishDate: 2023-11-02 00:00:00
 img: /assets/Macbook.png
 img_alt: Fantasy-themed image featuring a pale female character with striking blue eyes and silver hair, adorned with subtle facial markings.
 description: |

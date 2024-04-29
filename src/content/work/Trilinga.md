@@ -1,6 +1,6 @@
 ---
 title: Trilinga
-publishDate: 2019-12-01 00:00:00
+publishDate: 2023-11-01 00:00:00
 img: /assets/Trilinga2.png
 img_alt: page with the title "Trilinga", its mascot that looks like a cute ghost and an instruction for choosing a language, accompanied by three flag, British, Spanish and Japanese
 description: |
